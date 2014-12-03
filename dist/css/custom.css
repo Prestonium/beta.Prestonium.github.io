@@ -1,3 +1,11 @@
 body {
 	position: relative;
 }
+button {
+	margin-right: 10px;
+	margin-top: 5%;
+}
+.navitem {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
